@@ -9,7 +9,7 @@ El enfoque de este espacio es documentar el aprendizaje de los fundamentos de la
 
 ##  Tecnologías y Entorno
 * **Lenguaje de Consultas:** SQL (ANSI estándar)
-* **Entorno de Servidor/Base de Datos:** PHP y MySQL/PostgreSQL *(Ajusta según las herramientas del Módulo 1)*
+* **Entorno de Servidor/Base de Datos:** PHP y MySQL/PostgreSQL 
 * **Prácticas:** Consultas nativas escritas manualmente para desarrollar intuición técnica y lógica relacional.
 
 ---
