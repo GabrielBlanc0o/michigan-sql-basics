@@ -1,5 +1,5 @@
 # michigan-sql-basics
-# Introduction to Structured Query Language (SQL) - UMich 📊
+# Introduction to Structured Query Language (SQL) 
 
 Este repositorio contiene las prácticas, scripts de bases de datos y configuraciones desarrolladas durante el curso **Introduction to Structured Query Language (SQL)** de la Universidad de Michigan. 
 
@@ -18,10 +18,10 @@ El enfoque de este espacio es documentar el aprendizaje de los fundamentos de la
 
 Basado en el plan de estudios oficial del curso, el repositorio se organiza de la siguiente manera:
 
-* **📂 module-1-setup/**: Notas y configuraciones iniciales sobre la instalación y el entorno de trabajo integrado con PHP y SQL.
-* **📂 module-2-sql-intro/**: Introducción práctica a la sintaxis estructurada de SQL, creación de tablas elementales e inserción básica de registros.
-* **📂 module-3-database-design/**: Modelado relacional de datos. Diseño de esquemas, definición de llaves primarias (`PRIMARY KEY`), llaves foráneas (`FOREIGN KEY`) y normalización.
-* **📂 module-4-many-to-many/**: Implementación de relaciones complejas Muchos a Muchos utilizando tablas intermedias (tablas de unión) y consultas avanzadas con múltiples `JOIN`.
+* **# module-1-setup/**: Notas y configuraciones iniciales sobre la instalación y el entorno de trabajo integrado con PHP y SQL.
+* **# module-2-sql-intro/**: Introducción práctica a la sintaxis estructurada de SQL, creación de tablas elementales e inserción básica de registros.
+* **# module-3-database-design/**: Modelado relacional de datos. Diseño de esquemas, definición de llaves primarias (`PRIMARY KEY`), llaves foráneas (`FOREIGN KEY`) y normalización.
+* **# module-4-many-to-many/**: Implementación de relaciones complejas Muchos a Muchos utilizando tablas intermedias (tablas de unión) y consultas avanzadas con múltiples `JOIN`.
 
 ---
 
