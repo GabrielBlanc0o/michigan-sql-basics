@@ -1,0 +1,24 @@
+# Dependencias
+/vendor/
+composer.phar
+
+# Variables de entorno y contraseñas
+.env
+.env.local
+
+# Archivos de Bases de Datos
+*.sql
+*.sqlite
+*.sqlite3
+
+# Archivos de configuración y temporales del IDE
+.idea/
+.vscode/
+nbproject/
+*.swp
+*.swo
+
+# Sistema operativo y misceláneos
+.DS_Store
+Thumbs.db
+*.log
