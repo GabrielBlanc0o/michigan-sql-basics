@@ -1,7 +1,11 @@
 # michigan-sql-basics
 # Introduction to Structured Query Language (SQL) 
 
-Este repositorio contiene las prácticas, scripts de bases de datos y configuraciones desarrolladas durante el curso **Introduction to Structured Query Language (SQL)** de la Universidad de Michigan. 
+Este repositorio contiene las prácticas, scripts de bases de datos y configuraciones desarrolladas durante el curso 
+Ya que tengo ayuda financiera gracias a Coursera , inciare mi aprendizaje con sus respectivas aplicaciones desde el dia
+2 de julio, por ahora estoy investigando por mi cuenta el lenguaje. 
+
+**Introduction to Structured Query Language (SQL)** de la Universidad de Michigan. 
 
 El enfoque de este espacio es documentar el aprendizaje de los fundamentos de las bases de datos relacionales, la escritura de consultas SQL puro y el modelado de datos desde cero.
 
