@@ -1,0 +1,9 @@
+
+CREATE DATABASE People DEFAULT CHARACTER SET utf8;
+
+USE People;
+
+CREATE TABLE Users (
+    nombre VARCHAR(128),
+   email VARCHAR(128)
+);
